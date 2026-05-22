@@ -1,7 +1,7 @@
 
 ## 🌐 Translations
 
-[English](./translations/en/README.md) | [繁體中文](./translations/zh-TW/README.md) | [Français](./translations/fr/README.md) | [Português](./translations/pt/README.md) | [ไทย](./translations/th/README.md) | [Bahasa Melayu](./translations/ms/README.md)
+[English](./translations/en/README.md) | [繁體中文](./translations/zh-TW/README.md) | [Français](./translations/fr/README.md) | [Português](./translations/pt/README.md) | [العربية](./translations/ar/README.md) | [ไทย](./translations/th/README.md) | [Bahasa Melayu](./translations/ms/README.md)
 
 ---
 
